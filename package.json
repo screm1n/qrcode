@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "express": "^4.18.2",
     "inquirer": "^9.2.12",
     "qr-image": "^3.2.0"
   },
@@ -8,7 +9,6 @@
   "description": "QR Code generator made with node NPM methods.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
